@@ -20,7 +20,7 @@ ENegation >> expression [
 ]
 
 { #category : 'accessing' }
-ENegation >> expression: anObject [
+ENegation >> expression: anExpression [
 
-	expression := anObject
+	expression := anExpression 
 ]
